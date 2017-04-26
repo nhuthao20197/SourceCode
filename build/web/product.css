@@ -1,0 +1,20 @@
+h1{
+   text-align: center;
+}
+#id{
+    overflow: 300px;
+}
+.aa{
+  padding-top: 20px;
+    margin-left: 500px;
+  
+    
+}
+.ii{
+    padding-top: 20px;
+    margin-left: 480px;
+}
+body{
+    background:url("images/download.jpeg") no-repeat center center fixed ;
+    background-size: cover;
+}

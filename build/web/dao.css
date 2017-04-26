@@ -1,0 +1,18 @@
+#id{
+    overflow: 300px;
+}
+.aa{
+  padding-top: 20px;
+   margin-left: 150px;
+    text-align: center;
+  
+    
+}
+.ii{
+    padding-top: 20px;
+    margin-left: 480px;
+}
+body{
+    background:url("images/index1.jpeg") no-repeat center center fixed ;
+    background-size: cover;
+}
